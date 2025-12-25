@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+body {
+  background-color: #111827;
+  color: #f3f4f6;
+  font-family: system-ui, sans-serif;
+}
+
+input {
+  background-color: #374756;
+  color: #f3f4f6;
+  border: 1px solid #4b5563;
+}
+
+input::placeholder {
+  color: #9ca3af;
+}
